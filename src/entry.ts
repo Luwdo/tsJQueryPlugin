@@ -4,7 +4,6 @@ require('es6-shim');
 window['jQuery'] = require("jquery");
 window['$'] = window['jQuery'];
 require("jquery-ui");
-$
 
 import { Widget, WidgetOptions } from './widget/widget.ts';
 
